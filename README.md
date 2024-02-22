@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java Softvare Developing and Python
 - 📫 How to reach me laszloilonczai@gmail.com
-- 😄 Pronouns: He
+<!-- - 😄 Pronouns: He
 <!-- - ⚡ Fun fact: ...
 
 <!---
