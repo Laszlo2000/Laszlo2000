@@ -1,7 +1,7 @@
 - 👋 Hi, I’m László Ilonczai
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java Softvare Developing and Python
-- 📫 How to reach me laszloilonczai@gmail.com
+- 📫 How to reach me laszlo2000@mailbox.unideb.hu
 <!-- - 😄 Pronouns: He
 <!-- - ⚡ Fun fact: ...
 
